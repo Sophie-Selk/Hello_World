@@ -1,4 +1,4 @@
-# Hello_World
+**Hello_World**
 ---
 # Projects
 ---
@@ -18,4 +18,4 @@ A python code to create and display students class schdedule
 ---
 As a solutions-orientated person, I am constantly challenging myself with new experiences and tasks. I aspire to be the most efficient and effective whilst maintaining a high degree of excellence. I am striving for a career that will present opportunities for analytical involvement and interpersonal skill development.
 
-Connect with my on LinkedIn: [title](https://www.linkedin.com/in/sophie-selk-998ba5206/)
+Connect with my on LinkedIn: [Sophie Selk](https://www.linkedin.com/in/sophie-selk-998ba5206/)
